@@ -19,7 +19,7 @@ public class gameMan : MonoBehaviour
 
   private void Update()
   {
-    if (player.position.y < -1)
+    if (player.position.y < -10)
     {
       SceneManager.LoadScene(0);
     }
