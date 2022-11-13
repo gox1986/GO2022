@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7fb0827-ca12-4518-a194-d169b9e1fa84" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.clishe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.clishe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Bricks_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Bricks_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Circle_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Circle_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Columns_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Columns_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Floor_Indoor_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Floor_Indoor_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Grass_Dry_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Grass_Dry_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Grass_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Grass_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Ivy_01_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Ivy_01_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Leaves_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Leaves_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Mud_Decal_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Mud_Decal_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Rocks_Decal_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Rocks_Decal_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Soil_Islands_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Soil_Islands_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Staircase_Material_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Staircase_Material_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Tree_Trunk_03.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Tree_Trunk_03.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +78,7 @@
       <updated>1667721786306</updated>
       <workItem from="1667721790839" duration="1253000" />
       <workItem from="1667820150085" duration="3300000" />
-      <workItem from="1668279581626" duration="602000" />
+      <workItem from="1668279581626" duration="1213000" />
     </task>
     <servers />
   </component>
