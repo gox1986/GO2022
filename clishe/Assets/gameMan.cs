@@ -11,6 +11,13 @@ public class gameMan : MonoBehaviour
   public int coins;
   public TextMeshProUGUI text;
   public GameObject gameObjectt;
+  public static Vector3 lastChekpoint = new Vector3(-53, 2, -48);
+ 
+
+  private void Awake()
+  {
+    player.transform.position = lastChekpoint;
+  }
 
   private void Start()
   {
