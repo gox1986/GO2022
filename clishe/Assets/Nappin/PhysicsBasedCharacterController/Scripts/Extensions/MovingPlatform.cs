@@ -118,7 +118,7 @@ namespace PhysicsBasedCharacterController
                         catch { /* Debug.Log("There is no player on the platform") */ }
                     }
 
-                    if (rigidbody.velocity.magnitude > 0) rb.velocity += rigidbody.velocity;
+                    if (rigidbody.velocity.magnitude > 0) rb.velocity += rigidbody.velocity*0.1F;
 
                     rb.position += velocity;
                 }

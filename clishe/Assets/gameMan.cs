@@ -32,6 +32,12 @@ public class gameMan : MonoBehaviour
     }
   }
 
+  public void DoTeleport()
+  {
+    Vector3 novi = new Vector3(54, 2, -32);
+    player.transform.position = novi;  
+  }
+
   public void AddCoins()
   {
     coins++;

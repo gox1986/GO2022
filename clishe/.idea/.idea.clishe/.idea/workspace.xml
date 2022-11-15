@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c7fb0827-ca12-4518-a194-d169b9e1fa84" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.clishe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.clishe/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Circle_02_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Materials/Circle_02_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Nappin/PhysicsBasedCharacterController/Scripts/Extensions/MovingPlatform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nappin/PhysicsBasedCharacterController/Scripts/Extensions/MovingPlatform.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/gameMan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/gameMan.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/kupaSc.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.8.6/Runtime/Helpers/CinemachineInputProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/teleportScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/actKupa.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/LockCameraZ.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -78,7 +83,7 @@
       <workItem from="1667721790839" duration="1253000" />
       <workItem from="1667820150085" duration="3300000" />
       <workItem from="1668279581626" duration="5799000" />
-      <workItem from="1668451033922" duration="7428000" />
+      <workItem from="1668451033922" duration="11563000" />
     </task>
     <servers />
   </component>
