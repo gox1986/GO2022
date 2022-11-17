@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7fb0827-ca12-4518-a194-d169b9e1fa84" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <workItem from="1667721790839" duration="1253000" />
       <workItem from="1667820150085" duration="3300000" />
       <workItem from="1668279581626" duration="5799000" />
-      <workItem from="1668451033922" duration="13410000" />
+      <workItem from="1668451033922" duration="14005000" />
     </task>
     <servers />
   </component>
