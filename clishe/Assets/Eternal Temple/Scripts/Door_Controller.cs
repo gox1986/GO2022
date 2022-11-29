@@ -2,8 +2,12 @@
 using System.Collections;
 
 namespace commanastationwww.eternaltemple{
-public class Door_Controller : MonoBehaviour {
-		
+public class Door_Controller : MonoBehaviour
+{
+	public GameObject go;	
+	public GameObject go1;
+	public GameObject go2;
+	public GameObject go3;
 	public bool stayOpen = true; //If set to true, door will open once and stay like this until Close() is called. If set to false, door will close after player leaves the trigger area
 	public bool locked = false; //If set to true, door will not open when player enters trigger area
 	public float openingSpeed = 5.0f;
@@ -30,6 +34,10 @@ public class Door_Controller : MonoBehaviour {
 	void OnTriggerEnter(Collider other)
 	{
 		Open();
+		/*go.SetActive(true);
+		go1.SetActive(false);
+		go2.SetActive(false);
+		go3.SetActive(false);*/
 	}
 	
 	void OnTriggerExit(Collider other)
