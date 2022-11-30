@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7fb0827-ca12-4518-a194-d169b9e1fa84" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.clishe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.clishe/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Props/Materials/Chest_01_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Eternal Temple/Source_FBX/Props/Materials/Chest_01_Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene/OcclusionCullingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene/OcclusionCullingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
-    </list>
+    <list default="true" id="c7fb0827-ca12-4518-a194-d169b9e1fa84" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +79,7 @@
       <workItem from="1667820150085" duration="3300000" />
       <workItem from="1668279581626" duration="5799000" />
       <workItem from="1668451033922" duration="14005000" />
-      <workItem from="1669732591687" duration="4134000" />
+      <workItem from="1669732591687" duration="5735000" />
     </task>
     <servers />
   </component>
