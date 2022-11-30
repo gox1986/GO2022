@@ -24,11 +24,16 @@ public class gameMan : MonoBehaviour
     text.text = "";
   }
 
+  public void Restart()
+  {
+    SceneManager.LoadScene(0);
+  }
+
   private void Update()
   {
     if (player.position.y < -10)
     {
-      SceneManager.LoadScene(0);
+      Restart();
     }
   }
 
